@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cdavidstefan
+- 👋 Hi, I’m David,
 - 👀 I’m interested in Front-end web development.
-- 🌱 I’m currently learning html, CSS, JS, MEAN
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at ciucadavidstefan@gmail.com
 
