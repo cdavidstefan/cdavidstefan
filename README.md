@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at ciucadavidstefan@gmail.com
+- 👀 Check out my portfolio:
 
 <!---
 cdavidstefan/cdavidstefan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
