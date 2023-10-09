@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David,
 - 👀 I’m interested in Front-end web development.
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning the fundamentals. BigO, Data Structures, Algorithms, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at ciucadavidstefan@gmail.com
 - 👀 Check out my portfolio:
