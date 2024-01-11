@@ -1,6 +1,7 @@
 - 👋 Hi, I’m David,
 - 👀 I’m interested science, tech, life.
-- 🌱 I’m currently learning the fundamentals. BigO, Data Structures, Algorithms
+- 🌱 I’m currently learning the fundamentals. Data types, Data Structures, Algorithms, BigO,
+- ✨ HTML, CSS, Javascript, Python, TS, C#, Angular, .NET, 
 - 📫 You can reach me at ciucadavidstefan@gmail.com
 - 👀 Check out my portfolio: ~Coming Soon~
 
